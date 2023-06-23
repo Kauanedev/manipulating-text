@@ -4,7 +4,7 @@ const buttonI = document.querySelector(".italic");
 const buttonB = document.querySelector(".bold");
 
 const smallerFont = document.querySelector(".smaller-font");
-const currentFontSize = document.querySelector("current-font-size");
+const currentFontSize = document.querySelector(".current-font-size");
 const biggerFont = document.querySelector(".bigger-font");
 
 
